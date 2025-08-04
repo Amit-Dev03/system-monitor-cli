@@ -1,345 +1,401 @@
 [
   {
-    "id": 1754292767251,
-    "timestamp": "2025-08-04T07:32:47.251Z",
+    "id": 1754296818714,
+    "timestamp": "2025-08-04T08:40:18.714Z",
+    "type": "CPU",
+    "message": "High CPU usage: 83.5%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296814690,
+    "timestamp": "2025-08-04T08:40:14.690Z",
+    "type": "CPU",
+    "message": "High CPU usage: 80.3%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296774606,
+    "timestamp": "2025-08-04T08:39:34.606Z",
+    "type": "CPU",
+    "message": "High CPU usage: 93.3%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296770594,
+    "timestamp": "2025-08-04T08:39:30.594Z",
     "type": "MEMORY",
-    "message": "High memory usage: 80.2%",
+    "message": "High memory usage: 85.2%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292757226,
-    "timestamp": "2025-08-04T07:32:37.226Z",
+    "id": 1754296770589,
+    "timestamp": "2025-08-04T08:39:30.589Z",
     "type": "CPU",
-    "message": "High CPU usage: 80.7%",
+    "message": "High CPU usage: 87.7%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292755216,
-    "timestamp": "2025-08-04T07:32:35.216Z",
+    "id": 1754296766589,
+    "timestamp": "2025-08-04T08:39:26.589Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 84.5%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296766586,
+    "timestamp": "2025-08-04T08:39:26.586Z",
     "type": "CPU",
-    "message": "High CPU usage: 80.6%",
+    "message": "High CPU usage: 94.4%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292739127,
-    "timestamp": "2025-08-04T07:32:19.127Z",
+    "id": 1754296762591,
+    "timestamp": "2025-08-04T08:39:22.591Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 84.2%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296762588,
+    "timestamp": "2025-08-04T08:39:22.588Z",
     "type": "CPU",
-    "message": "High CPU usage: 80.1%",
+    "message": "High CPU usage: 85.2%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292735069,
-    "timestamp": "2025-08-04T07:32:15.069Z",
+    "id": 1754296758570,
+    "timestamp": "2025-08-04T08:39:18.570Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 83.7%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296758567,
+    "timestamp": "2025-08-04T08:39:18.567Z",
     "type": "CPU",
-    "message": "High CPU usage: 82.5%",
+    "message": "High CPU usage: 84.1%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292731068,
-    "timestamp": "2025-08-04T07:32:11.068Z",
+    "id": 1754296754557,
+    "timestamp": "2025-08-04T08:39:14.557Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 83.2%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296750552,
+    "timestamp": "2025-08-04T08:39:10.552Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 82.7%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296746540,
+    "timestamp": "2025-08-04T08:39:06.540Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 82.0%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296742532,
+    "timestamp": "2025-08-04T08:39:02.532Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 81.4%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296742529,
+    "timestamp": "2025-08-04T08:39:02.529Z",
+    "type": "CPU",
+    "message": "High CPU usage: 81.8%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296738521,
+    "timestamp": "2025-08-04T08:38:58.521Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 80.9%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296734517,
+    "timestamp": "2025-08-04T08:38:54.517Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 80.4%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296730502,
+    "timestamp": "2025-08-04T08:38:50.502Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 80.1%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296702471,
+    "timestamp": "2025-08-04T08:38:22.471Z",
+    "type": "CPU",
+    "message": "High CPU usage: 83.7%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296698469,
+    "timestamp": "2025-08-04T08:38:18.469Z",
+    "type": "CPU",
+    "message": "High CPU usage: 86.2%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296638426,
+    "timestamp": "2025-08-04T08:37:18.426Z",
     "type": "CPU",
     "message": "High CPU usage: 85.5%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292729040,
-    "timestamp": "2025-08-04T07:32:09.040Z",
+    "id": 1754296545925,
+    "timestamp": "2025-08-04T08:35:45.925Z",
     "type": "CPU",
-    "message": "High CPU usage: 81.5%",
+    "message": "High CPU usage: 87.7%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292727074,
-    "timestamp": "2025-08-04T07:32:07.074Z",
+    "id": 1754296541921,
+    "timestamp": "2025-08-04T08:35:41.921Z",
     "type": "CPU",
-    "message": "High CPU usage: 90.0%",
+    "message": "High CPU usage: 86.5%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292725034,
-    "timestamp": "2025-08-04T07:32:05.034Z",
+    "id": 1754296537899,
+    "timestamp": "2025-08-04T08:35:37.899Z",
     "type": "CPU",
-    "message": "High CPU usage: 87.2%",
+    "message": "High CPU usage: 88.7%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292723008,
-    "timestamp": "2025-08-04T07:32:03.008Z",
+    "id": 1754296533967,
+    "timestamp": "2025-08-04T08:35:33.967Z",
     "type": "CPU",
-    "message": "High CPU usage: 91.8%",
+    "message": "High CPU usage: 84.2%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292720981,
-    "timestamp": "2025-08-04T07:32:00.981Z",
+    "id": 1754296529856,
+    "timestamp": "2025-08-04T08:35:29.856Z",
     "type": "CPU",
-    "message": "High CPU usage: 87.2%",
+    "message": "High CPU usage: 83.6%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292717015,
-    "timestamp": "2025-08-04T07:31:57.015Z",
+    "id": 1754296509820,
+    "timestamp": "2025-08-04T08:35:09.820Z",
     "type": "CPU",
-    "message": "High CPU usage: 82.9%",
+    "message": "High CPU usage: 82.0%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292714935,
-    "timestamp": "2025-08-04T07:31:54.935Z",
+    "id": 1754296493772,
+    "timestamp": "2025-08-04T08:34:53.772Z",
     "type": "CPU",
-    "message": "High CPU usage: 84.5%",
+    "message": "High CPU usage: 86.4%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292708929,
-    "timestamp": "2025-08-04T07:31:48.929Z",
+    "id": 1754296490052,
+    "timestamp": "2025-08-04T08:34:50.052Z",
     "type": "CPU",
-    "message": "High CPU usage: 80.1%",
+    "message": "High CPU usage: 96.3%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292706969,
-    "timestamp": "2025-08-04T07:31:46.969Z",
-    "type": "CPU",
-    "message": "High CPU usage: 84.4%",
+    "id": 1754296440992,
+    "timestamp": "2025-08-04T08:34:00.992Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 85.1%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292698865,
-    "timestamp": "2025-08-04T07:31:38.865Z",
-    "type": "CPU",
-    "message": "High CPU usage: 92.2%",
+    "id": 1754296436990,
+    "timestamp": "2025-08-04T08:33:56.990Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 84.6%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292696846,
-    "timestamp": "2025-08-04T07:31:36.846Z",
+    "id": 1754296436984,
+    "timestamp": "2025-08-04T08:33:56.984Z",
     "type": "CPU",
-    "message": "High CPU usage: 85.4%",
+    "message": "High CPU usage: 88.8%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292694856,
-    "timestamp": "2025-08-04T07:31:34.856Z",
-    "type": "CPU",
-    "message": "High CPU usage: 80.1%",
+    "id": 1754296431915,
+    "timestamp": "2025-08-04T08:33:51.915Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 84.2%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292692831,
-    "timestamp": "2025-08-04T07:31:32.831Z",
-    "type": "CPU",
-    "message": "High CPU usage: 89.3%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292690825,
-    "timestamp": "2025-08-04T07:31:30.825Z",
-    "type": "CPU",
-    "message": "High CPU usage: 97.7%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292688850,
-    "timestamp": "2025-08-04T07:31:28.850Z",
-    "type": "CPU",
-    "message": "High CPU usage: 93.1%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292687515,
-    "timestamp": "2025-08-04T07:31:27.515Z",
-    "type": "CPU",
-    "message": "High CPU usage: 99.1%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292684816,
-    "timestamp": "2025-08-04T07:31:24.816Z",
-    "type": "CPU",
-    "message": "High CPU usage: 85.9%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292682800,
-    "timestamp": "2025-08-04T07:31:22.800Z",
-    "type": "CPU",
-    "message": "High CPU usage: 83.0%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292676752,
-    "timestamp": "2025-08-04T07:31:16.752Z",
-    "type": "CPU",
-    "message": "High CPU usage: 80.4%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292672747,
-    "timestamp": "2025-08-04T07:31:12.747Z",
-    "type": "CPU",
-    "message": "High CPU usage: 86.3%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292666798,
-    "timestamp": "2025-08-04T07:31:06.798Z",
-    "type": "CPU",
-    "message": "High CPU usage: 91.6%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292662649,
-    "timestamp": "2025-08-04T07:31:02.649Z",
-    "type": "CPU",
-    "message": "High CPU usage: 84.9%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292660644,
-    "timestamp": "2025-08-04T07:31:00.644Z",
-    "type": "CPU",
-    "message": "High CPU usage: 82.4%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292658592,
-    "timestamp": "2025-08-04T07:30:58.592Z",
-    "type": "CPU",
-    "message": "High CPU usage: 85.0%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292656701,
-    "timestamp": "2025-08-04T07:30:56.701Z",
-    "type": "CPU",
-    "message": "High CPU usage: 95.6%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292654680,
-    "timestamp": "2025-08-04T07:30:54.680Z",
-    "type": "CPU",
-    "message": "High CPU usage: 100.0%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292652560,
-    "timestamp": "2025-08-04T07:30:52.560Z",
-    "type": "CPU",
-    "message": "High CPU usage: 98.9%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292650511,
-    "timestamp": "2025-08-04T07:30:50.511Z",
-    "type": "CPU",
-    "message": "High CPU usage: 100.0%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292648518,
-    "timestamp": "2025-08-04T07:30:48.518Z",
-    "type": "CPU",
-    "message": "High CPU usage: 89.4%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292646485,
-    "timestamp": "2025-08-04T07:30:46.485Z",
-    "type": "CPU",
-    "message": "High CPU usage: 82.6%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292644480,
-    "timestamp": "2025-08-04T07:30:44.480Z",
-    "type": "CPU",
-    "message": "High CPU usage: 89.0%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292640465,
-    "timestamp": "2025-08-04T07:30:40.465Z",
-    "type": "CPU",
-    "message": "High CPU usage: 85.8%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292638452,
-    "timestamp": "2025-08-04T07:30:38.452Z",
-    "type": "CPU",
-    "message": "High CPU usage: 87.9%",
-    "severity": "HIGH",
-    "resolved": false
-  },
-  {
-    "id": 1754292628424,
-    "timestamp": "2025-08-04T07:30:28.424Z",
+    "id": 1754296323168,
+    "timestamp": "2025-08-04T08:32:03.168Z",
     "type": "CPU",
     "message": "High CPU usage: 83.1%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292622385,
-    "timestamp": "2025-08-04T07:30:22.385Z",
+    "id": 1754296315149,
+    "timestamp": "2025-08-04T08:31:55.149Z",
     "type": "CPU",
-    "message": "High CPU usage: 91.7%",
+    "message": "High CPU usage: 81.8%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292620368,
-    "timestamp": "2025-08-04T07:30:20.368Z",
+    "id": 1754296307187,
+    "timestamp": "2025-08-04T08:31:47.187Z",
     "type": "CPU",
-    "message": "High CPU usage: 88.3%",
+    "message": "High CPU usage: 82.2%",
     "severity": "HIGH",
     "resolved": false
   },
   {
-    "id": 1754292618383,
-    "timestamp": "2025-08-04T07:30:18.383Z",
+    "id": 1754296295103,
+    "timestamp": "2025-08-04T08:31:35.103Z",
     "type": "CPU",
-    "message": "High CPU usage: 82.7%",
+    "message": "High CPU usage: 80.7%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296291102,
+    "timestamp": "2025-08-04T08:31:31.102Z",
+    "type": "CPU",
+    "message": "High CPU usage: 84.8%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296283081,
+    "timestamp": "2025-08-04T08:31:23.081Z",
+    "type": "CPU",
+    "message": "High CPU usage: 81.3%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296275080,
+    "timestamp": "2025-08-04T08:31:15.080Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 84.8%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296271072,
+    "timestamp": "2025-08-04T08:31:11.072Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 84.3%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296267161,
+    "timestamp": "2025-08-04T08:31:07.161Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 83.8%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296263057,
+    "timestamp": "2025-08-04T08:31:03.057Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 83.4%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296259044,
+    "timestamp": "2025-08-04T08:30:59.044Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 83.3%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296259041,
+    "timestamp": "2025-08-04T08:30:59.041Z",
+    "type": "CPU",
+    "message": "High CPU usage: 82.8%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296255020,
+    "timestamp": "2025-08-04T08:30:55.020Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 82.8%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296255018,
+    "timestamp": "2025-08-04T08:30:55.018Z",
+    "type": "CPU",
+    "message": "High CPU usage: 86.2%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296251022,
+    "timestamp": "2025-08-04T08:30:51.022Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 82.2%",
+    "severity": "HIGH",
+    "resolved": false
+  },
+  {
+    "id": 1754296247013,
+    "timestamp": "2025-08-04T08:30:47.013Z",
+    "type": "MEMORY",
+    "message": "High memory usage: 81.6%",
     "severity": "HIGH",
     "resolved": false
   }

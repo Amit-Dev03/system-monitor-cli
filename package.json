@@ -1,16 +1,44 @@
 {
   "name": "system-monitor-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "Advanced CLI-based system monitoring tool with alerts, logging, and data persistence",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "monitor": "node index.js",
+    "alerts": "node index.js --alerts",
+    "history": "node index.js --history",
+    "config": "node index.js --config",
+    "clear": "node index.js --clear",
+    "install-global": "npm install -g ."
+  },
+  "keywords": [
+    "system-monitor",
+    "cli",
+    "performance",
+    "monitoring",
+    "alerts",
+    "logging",
+    "nodejs",
+    "cpu",
+    "memory",
+    "disk",
+    "network"
+  ],
+  "author": "Amit Pandey",
+  "license": "ISC",
   "dependencies": {
     "chalk": "^5.5.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amit-Dev03/system-monitor-cli"
+  },
+  "bugs": {
+    "url": "https://github.com/Amit-Dev03/system-monitor-cli/issues"
   }
 }

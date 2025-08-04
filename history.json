@@ -1,491 +1,701 @@
 [
   {
-    "timestamp": "2025-08-04T07:30:14.394Z",
-    "avgCpu": 77.4111643048352,
-    "memoryPercentage": 73.02377592998893,
+    "timestamp": "2025-08-04T08:30:39.017Z",
+    "avgCpu": 68.31546319910073,
+    "memoryPercentage": 80.85063415093742,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:16.366Z",
-    "avgCpu": 74.10866996059688,
-    "memoryPercentage": 73.25495547467297,
+    "timestamp": "2025-08-04T08:30:43.003Z",
+    "avgCpu": 57.41632531949547,
+    "memoryPercentage": 81.09486508798878,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:18.382Z",
-    "avgCpu": 82.73846216754133,
-    "memoryPercentage": 73.3526864630804,
+    "timestamp": "2025-08-04T08:30:47.013Z",
+    "avgCpu": 67.58610827576345,
+    "memoryPercentage": 81.63429689678048,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:20.368Z",
-    "avgCpu": 88.30269561357706,
-    "memoryPercentage": 73.53814752089188,
+    "timestamp": "2025-08-04T08:30:51.022Z",
+    "avgCpu": 72.96309214001175,
+    "memoryPercentage": 82.21353931365122,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:22.385Z",
-    "avgCpu": 91.66347004241257,
-    "memoryPercentage": 73.704494853195,
+    "timestamp": "2025-08-04T08:30:55.018Z",
+    "avgCpu": 86.17485136464026,
+    "memoryPercentage": 82.83826853587318,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:24.399Z",
-    "avgCpu": 78.94409505229115,
-    "memoryPercentage": 73.7961635084614,
+    "timestamp": "2025-08-04T08:30:59.041Z",
+    "avgCpu": 82.80704503172038,
+    "memoryPercentage": 83.28247923940502,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:26.417Z",
-    "avgCpu": 75.89525987220114,
-    "memoryPercentage": 73.9748671885679,
+    "timestamp": "2025-08-04T08:31:03.057Z",
+    "avgCpu": 66.69949931340591,
+    "memoryPercentage": 83.4371266548818,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:28.424Z",
-    "avgCpu": 83.0763779692872,
-    "memoryPercentage": 74.15774113605806,
+    "timestamp": "2025-08-04T08:31:07.161Z",
+    "avgCpu": 77.61247728516693,
+    "memoryPercentage": 83.7712886357897,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:30.422Z",
-    "avgCpu": 66.93822428678087,
-    "memoryPercentage": 74.32628944281366,
+    "timestamp": "2025-08-04T08:31:11.071Z",
+    "avgCpu": 70.87349702014845,
+    "memoryPercentage": 84.31075905816829,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:32.437Z",
-    "avgCpu": 68.93425196850393,
-    "memoryPercentage": 74.46776962516248,
+    "timestamp": "2025-08-04T08:31:15.080Z",
+    "avgCpu": 65.76072235950483,
+    "memoryPercentage": 84.84405130664516,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:34.453Z",
-    "avgCpu": 74.09292694050419,
-    "memoryPercentage": 74.64782478080998,
+    "timestamp": "2025-08-04T08:31:19.081Z",
+    "avgCpu": 67.87940702365259,
+    "memoryPercentage": 73.15846012104588,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:36.462Z",
-    "avgCpu": 74.0227189834949,
-    "memoryPercentage": 74.78915050881123,
+    "timestamp": "2025-08-04T08:31:23.081Z",
+    "avgCpu": 81.31146378530559,
+    "memoryPercentage": 73.62591620388282,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:38.451Z",
-    "avgCpu": 87.92301148352992,
-    "memoryPercentage": 75.00557966330497,
+    "timestamp": "2025-08-04T08:31:27.081Z",
+    "avgCpu": 69.03862987395327,
+    "memoryPercentage": 73.9097646810788,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:40.465Z",
-    "avgCpu": 85.78921401469924,
-    "memoryPercentage": 75.31997148772744,
+    "timestamp": "2025-08-04T08:31:31.102Z",
+    "avgCpu": 84.7876484993437,
+    "memoryPercentage": 74.37432474489934,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:42.470Z",
-    "avgCpu": 73.02334442182615,
-    "memoryPercentage": 75.58632801006424,
+    "timestamp": "2025-08-04T08:31:35.103Z",
+    "avgCpu": 80.65152802187346,
+    "memoryPercentage": 74.95279489003237,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:44.479Z",
-    "avgCpu": 89.00762275574877,
-    "memoryPercentage": 70.46021989665459,
+    "timestamp": "2025-08-04T08:31:39.103Z",
+    "avgCpu": 71.68201817057478,
+    "memoryPercentage": 75.39619470823959,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:46.485Z",
-    "avgCpu": 82.58942886984718,
-    "memoryPercentage": 70.26085794756429,
+    "timestamp": "2025-08-04T08:31:43.127Z",
+    "avgCpu": 65.70790836676971,
+    "memoryPercentage": 75.8723774617127,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:48.518Z",
-    "avgCpu": 89.3868072295278,
-    "memoryPercentage": 71.35667292979045,
+    "timestamp": "2025-08-04T08:31:47.187Z",
+    "avgCpu": 82.21142783985184,
+    "memoryPercentage": 76.26596575283752,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:50.511Z",
-    "avgCpu": 100,
-    "memoryPercentage": 72.11674277404641,
+    "timestamp": "2025-08-04T08:31:51.159Z",
+    "avgCpu": 78.64532232216082,
+    "memoryPercentage": 76.72620109492686,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:52.555Z",
-    "avgCpu": 98.8662811643792,
-    "memoryPercentage": 72.28965441612009,
+    "timestamp": "2025-08-04T08:31:55.149Z",
+    "avgCpu": 81.75121487190138,
+    "memoryPercentage": 77.2395687325708,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:54.680Z",
-    "avgCpu": 100,
-    "memoryPercentage": 74.04541421180788,
+    "timestamp": "2025-08-04T08:31:59.267Z",
+    "avgCpu": 70.94317598913992,
+    "memoryPercentage": 77.78680048591337,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:56.701Z",
-    "avgCpu": 95.58406309289032,
-    "memoryPercentage": 75.42434401307919,
+    "timestamp": "2025-08-04T08:32:03.168Z",
+    "avgCpu": 83.13733137083715,
+    "memoryPercentage": 78.33924507348551,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:30:58.592Z",
-    "avgCpu": 84.99592759247972,
-    "memoryPercentage": 74.05433395037845,
+    "timestamp": "2025-08-04T08:32:07.170Z",
+    "avgCpu": 63.25983493981914,
+    "memoryPercentage": 78.91725185557593,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:00.644Z",
-    "avgCpu": 82.36550070100448,
-    "memoryPercentage": 74.3652891655681,
+    "timestamp": "2025-08-04T08:32:11.176Z",
+    "avgCpu": 61.53890332796177,
+    "memoryPercentage": 79.34350724120594,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:02.649Z",
-    "avgCpu": 84.93228707966433,
-    "memoryPercentage": 74.31088262164631,
+    "timestamp": "2025-08-04T08:32:15.195Z",
+    "avgCpu": 59.21289521585413,
+    "memoryPercentage": 79.81382072947244,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:04.660Z",
-    "avgCpu": 78.21282983923321,
-    "memoryPercentage": 74.27060865052464,
+    "timestamp": "2025-08-04T08:32:19.202Z",
+    "avgCpu": 69.01252813042002,
+    "memoryPercentage": 73.1144406319963,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:06.798Z",
-    "avgCpu": 91.60919085459862,
-    "memoryPercentage": 73.2417110143712,
+    "timestamp": "2025-08-04T08:33:51.914Z",
+    "avgCpu": 70.36491806020969,
+    "memoryPercentage": 84.21105877682969,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:08.708Z",
-    "avgCpu": 70.73456587873625,
-    "memoryPercentage": 73.46524506885189,
+    "timestamp": "2025-08-04T08:33:56.984Z",
+    "avgCpu": 88.78105504139987,
+    "memoryPercentage": 84.62461029237436,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:10.727Z",
-    "avgCpu": 79.28487371467098,
-    "memoryPercentage": 73.96668110814815,
+    "timestamp": "2025-08-04T08:34:00.992Z",
+    "avgCpu": 66.53225477091449,
+    "memoryPercentage": 85.06793288340782,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:12.736Z",
-    "avgCpu": 86.31570004659251,
-    "memoryPercentage": 73.87717481374736,
+    "timestamp": "2025-08-04T08:34:04.999Z",
+    "avgCpu": 62.551252257843345,
+    "memoryPercentage": 74.98306794215067,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:14.735Z",
-    "avgCpu": 71.37498658343239,
-    "memoryPercentage": 74.14403331271367,
+    "timestamp": "2025-08-04T08:34:08.991Z",
+    "avgCpu": 78.8260441103415,
+    "memoryPercentage": 74.25083849403921,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:16.752Z",
-    "avgCpu": 80.37333184697354,
-    "memoryPercentage": 74.39374737910279,
+    "timestamp": "2025-08-04T08:34:13.001Z",
+    "avgCpu": 62.14725525651326,
+    "memoryPercentage": 73.67619109400788,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:18.760Z",
-    "avgCpu": 76.45536773823663,
-    "memoryPercentage": 74.56368577498628,
+    "timestamp": "2025-08-04T08:34:17.015Z",
+    "avgCpu": 61.79920961285751,
+    "memoryPercentage": 74.10047718670674,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:20.774Z",
-    "avgCpu": 79.28839966310753,
-    "memoryPercentage": 74.90313781729749,
+    "timestamp": "2025-08-04T08:34:21.017Z",
+    "avgCpu": 74.6686014358659,
+    "memoryPercentage": 74.50669212074314,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:22.800Z",
-    "avgCpu": 83.0252860123278,
-    "memoryPercentage": 75.0055024361312,
+    "timestamp": "2025-08-04T08:34:25.027Z",
+    "avgCpu": 74.71761220342782,
+    "memoryPercentage": 74.89487450970398,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:24.816Z",
-    "avgCpu": 85.92367541418706,
-    "memoryPercentage": 73.86400758061937,
+    "timestamp": "2025-08-04T08:34:29.028Z",
+    "avgCpu": 70.69351216842273,
+    "memoryPercentage": 75.36955133328854,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:27.515Z",
-    "avgCpu": 99.10821280271995,
-    "memoryPercentage": 77.24868153907579,
+    "timestamp": "2025-08-04T08:34:40.665Z",
+    "avgCpu": 60.756734610759864,
+    "memoryPercentage": 76.82624889854743,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:28.850Z",
-    "avgCpu": 93.13963868105492,
-    "memoryPercentage": 78.3816427918859,
+    "timestamp": "2025-08-04T08:34:45.719Z",
+    "avgCpu": 75.67765798132169,
+    "memoryPercentage": 77.42209515777898,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:30.824Z",
-    "avgCpu": 97.65437831396815,
-    "memoryPercentage": 77.86348706946816,
+    "timestamp": "2025-08-04T08:34:50.051Z",
+    "avgCpu": 96.25482393649031,
+    "memoryPercentage": 78.0941260239358,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:32.829Z",
-    "avgCpu": 89.30744477278083,
-    "memoryPercentage": 78.16529086456593,
+    "timestamp": "2025-08-04T08:34:53.772Z",
+    "avgCpu": 86.37679980941746,
+    "memoryPercentage": 78.57625526978927,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:34.856Z",
-    "avgCpu": 80.12289641694213,
-    "memoryPercentage": 78.56216131057603,
+    "timestamp": "2025-08-04T08:34:57.781Z",
+    "avgCpu": 75.66231125101712,
+    "memoryPercentage": 79.03703120209502,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:36.845Z",
-    "avgCpu": 85.42356729099615,
-    "memoryPercentage": 78.84438801712281,
+    "timestamp": "2025-08-04T08:35:01.803Z",
+    "avgCpu": 75.54908472446387,
+    "memoryPercentage": 79.67129798027773,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:38.865Z",
-    "avgCpu": 92.24777064775014,
-    "memoryPercentage": 79.1638382214273,
+    "timestamp": "2025-08-04T08:35:05.813Z",
+    "avgCpu": 78.10705451575328,
+    "memoryPercentage": 75.26753423673681,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:40.863Z",
-    "avgCpu": 72.63385626765609,
-    "memoryPercentage": 79.2573603288642,
+    "timestamp": "2025-08-04T08:35:09.820Z",
+    "avgCpu": 82.04173708247245,
+    "memoryPercentage": 74.41023538070294,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:42.885Z",
-    "avgCpu": 75.83943139122913,
-    "memoryPercentage": 79.49375270777777,
+    "timestamp": "2025-08-04T08:35:13.825Z",
+    "avgCpu": 71.19215276054707,
+    "memoryPercentage": 74.61994577107858,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:44.887Z",
-    "avgCpu": 76.35282971980658,
-    "memoryPercentage": 75.85797459380437,
+    "timestamp": "2025-08-04T08:35:17.827Z",
+    "avgCpu": 71.57969560916516,
+    "memoryPercentage": 75.07882963762694,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:46.969Z",
-    "avgCpu": 84.40620132411568,
-    "memoryPercentage": 75.78572857274143,
+    "timestamp": "2025-08-04T08:35:21.836Z",
+    "avgCpu": 64.99640951478443,
+    "memoryPercentage": 75.58493792093637,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:48.929Z",
-    "avgCpu": 80.07199282219676,
-    "memoryPercentage": 74.45861820507058,
+    "timestamp": "2025-08-04T08:35:25.848Z",
+    "avgCpu": 73.5740995395279,
+    "memoryPercentage": 75.99111424138589,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:50.918Z",
-    "avgCpu": 77.13400571946497,
-    "memoryPercentage": 74.33841410909574,
+    "timestamp": "2025-08-04T08:35:29.856Z",
+    "avgCpu": 83.6492095464811,
+    "memoryPercentage": 75.82121445908929,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:52.933Z",
-    "avgCpu": 76.98353490783238,
-    "memoryPercentage": 74.49186450337908,
+    "timestamp": "2025-08-04T08:35:33.967Z",
+    "avgCpu": 84.2343169810427,
+    "memoryPercentage": 76.02231401958944,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:54.935Z",
-    "avgCpu": 84.462643154966,
-    "memoryPercentage": 74.71914407578765,
+    "timestamp": "2025-08-04T08:35:37.898Z",
+    "avgCpu": 88.65779292018443,
+    "memoryPercentage": 76.5077254203282,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:57.015Z",
-    "avgCpu": 82.9496425531151,
-    "memoryPercentage": 75.01693205784933,
+    "timestamp": "2025-08-04T08:35:41.921Z",
+    "avgCpu": 86.49232093363383,
+    "memoryPercentage": 76.9110057217613,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:31:58.962Z",
-    "avgCpu": 76.14155722651316,
-    "memoryPercentage": 75.18559620536558,
+    "timestamp": "2025-08-04T08:35:45.925Z",
+    "avgCpu": 87.6722351316171,
+    "memoryPercentage": 77.24153802550195,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:00.981Z",
-    "avgCpu": 87.20260822972992,
-    "memoryPercentage": 75.6336296539991,
+    "timestamp": "2025-08-04T08:37:13.220Z",
+    "avgCpu": 76.29395587516814,
+    "memoryPercentage": 75.47936837439117,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:03.008Z",
-    "avgCpu": 91.79236403451566,
-    "memoryPercentage": 75.67660657620276,
+    "timestamp": "2025-08-04T08:37:18.426Z",
+    "avgCpu": 85.48784086906403,
+    "memoryPercentage": 76.1022827580295,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:05.034Z",
-    "avgCpu": 87.18246542786542,
-    "memoryPercentage": 75.83167874113529,
+    "timestamp": "2025-08-04T08:37:22.338Z",
+    "avgCpu": 72.0068448023074,
+    "memoryPercentage": 76.42682995580289,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:07.074Z",
-    "avgCpu": 90.04971073765769,
-    "memoryPercentage": 76.03111791739936,
+    "timestamp": "2025-08-04T08:37:26.343Z",
+    "avgCpu": 64.8798541851766,
+    "memoryPercentage": 77.10399642901548,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:09.040Z",
-    "avgCpu": 81.50693232020912,
-    "memoryPercentage": 75.95883328274954,
+    "timestamp": "2025-08-04T08:37:30.351Z",
+    "avgCpu": 62.4242217992614,
+    "memoryPercentage": 77.50642723153712,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:11.068Z",
-    "avgCpu": 85.51673020619992,
-    "memoryPercentage": 76.16085956933493,
+    "timestamp": "2025-08-04T08:37:34.358Z",
+    "avgCpu": 75.19754024109818,
+    "memoryPercentage": 78.05547382346332,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:13.059Z",
-    "avgCpu": 74.10469627591185,
-    "memoryPercentage": 76.45382085303592,
+    "timestamp": "2025-08-04T08:37:38.366Z",
+    "avgCpu": 65.50824913129867,
+    "memoryPercentage": 78.53513179975612,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:15.069Z",
-    "avgCpu": 82.54978408279797,
-    "memoryPercentage": 76.66588667221158,
+    "timestamp": "2025-08-04T08:37:42.372Z",
+    "avgCpu": 62.20568196827245,
+    "memoryPercentage": 78.97351185166822,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:17.084Z",
-    "avgCpu": 74.23475479383649,
-    "memoryPercentage": 76.85771897185919,
+    "timestamp": "2025-08-04T08:37:46.385Z",
+    "avgCpu": 66.18976174268133,
+    "memoryPercentage": 79.42073441497713,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:19.127Z",
-    "avgCpu": 80.13817250328523,
-    "memoryPercentage": 77.08986385621536,
+    "timestamp": "2025-08-04T08:37:50.392Z",
+    "avgCpu": 69.17542896398598,
+    "memoryPercentage": 79.84166112561695,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:21.128Z",
-    "avgCpu": 79.74142292596694,
-    "memoryPercentage": 77.32830275523388,
+    "timestamp": "2025-08-04T08:37:54.402Z",
+    "avgCpu": 69.31194537271759,
+    "memoryPercentage": 73.04624903755635,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:23.141Z",
-    "avgCpu": 77.34524618759934,
-    "memoryPercentage": 77.55129621949817,
+    "timestamp": "2025-08-04T08:37:58.402Z",
+    "avgCpu": 65.40875703677509,
+    "memoryPercentage": 73.52142783777043,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:25.157Z",
-    "avgCpu": 70.4924985223346,
-    "memoryPercentage": 77.7524343935852,
+    "timestamp": "2025-08-04T08:38:02.412Z",
+    "avgCpu": 71.62169847926583,
+    "memoryPercentage": 74.05201713516531,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:27.165Z",
-    "avgCpu": 63.28185601617429,
-    "memoryPercentage": 78.02875322133849,
+    "timestamp": "2025-08-04T08:38:06.432Z",
+    "avgCpu": 68.96957477124617,
+    "memoryPercentage": 74.53306520058601,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:29.170Z",
-    "avgCpu": 79.25608063717513,
-    "memoryPercentage": 78.25792485950447,
+    "timestamp": "2025-08-04T08:38:10.437Z",
+    "avgCpu": 70.13454132074821,
+    "memoryPercentage": 75.19582880589027,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:31.190Z",
-    "avgCpu": 74.69033914545402,
-    "memoryPercentage": 78.49431723841805,
+    "timestamp": "2025-08-04T08:38:14.446Z",
+    "avgCpu": 63.56218253763201,
+    "memoryPercentage": 75.68309365879954,
     "diskPercentage": 40,
     "load1": 0
   },
   {
-    "timestamp": "2025-08-04T07:32:33.205Z",
-    "avgCpu": 76.43186983657418,
-    "memoryPercentage": 78.80179723078801,
+    "timestamp": "2025-08-04T08:38:18.469Z",
+    "avgCpu": 86.21727925707759,
+    "memoryPercentage": 76.1526348753283,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:38:22.471Z",
+    "avgCpu": 83.71745685909917,
+    "memoryPercentage": 76.66789457872963,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:38:26.473Z",
+    "avgCpu": 74.46460787606972,
+    "memoryPercentage": 77.19809774025566,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:38:30.481Z",
+    "avgCpu": 77.37446209540178,
+    "memoryPercentage": 77.62732637207588,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:38:34.471Z",
+    "avgCpu": 76.00582816004277,
+    "memoryPercentage": 78.19861439004819,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:38:38.493Z",
+    "avgCpu": 75.60062281860742,
+    "memoryPercentage": 78.60552436864855,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:38:42.490Z",
+    "avgCpu": 77.4029874203346,
+    "memoryPercentage": 79.14020670625331,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:38:46.497Z",
+    "avgCpu": 67.79652300531652,
+    "memoryPercentage": 79.61171721571326,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:38:50.502Z",
+    "avgCpu": 68.72571741435762,
+    "memoryPercentage": 80.09172271428803,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:38:54.517Z",
+    "avgCpu": 72.34987504113191,
+    "memoryPercentage": 80.44237269679607,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:38:58.521Z",
+    "avgCpu": 77.36626001390965,
+    "memoryPercentage": 80.9045387182297,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:39:02.529Z",
+    "avgCpu": 81.82145184523625,
+    "memoryPercentage": 81.38326996843726,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:39:06.540Z",
+    "avgCpu": 69.91526079920433,
+    "memoryPercentage": 82.0176912009675,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:39:10.549Z",
+    "avgCpu": 74.7643078550935,
+    "memoryPercentage": 82.6626925563044,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:39:14.557Z",
+    "avgCpu": 76.67773935148531,
+    "memoryPercentage": 83.15961080593506,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:39:18.567Z",
+    "avgCpu": 84.1340930850986,
+    "memoryPercentage": 83.7198553380581,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:39:22.588Z",
+    "avgCpu": 85.16374108187226,
+    "memoryPercentage": 84.19959054152466,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:39:26.586Z",
+    "avgCpu": 94.39055165631517,
+    "memoryPercentage": 84.5403168322031,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:39:30.589Z",
+    "avgCpu": 87.72831264817911,
+    "memoryPercentage": 85.16697673376936,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:39:34.606Z",
+    "avgCpu": 93.25401269600923,
+    "memoryPercentage": 74.78582974033907,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:39:38.613Z",
+    "avgCpu": 74.45998811665667,
+    "memoryPercentage": 72.99875432568707,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:39:42.617Z",
+    "avgCpu": 62.37290940384785,
+    "memoryPercentage": 73.46292825363875,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:39:46.620Z",
+    "avgCpu": 64.97182535100933,
+    "memoryPercentage": 73.82450588123541,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:39:50.696Z",
+    "avgCpu": 63.080088495575225,
+    "memoryPercentage": 74.02572128249622,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:39:54.645Z",
+    "avgCpu": 70.10632668294672,
+    "memoryPercentage": 74.38131380412563,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:39:58.661Z",
+    "avgCpu": 59.749131622978894,
+    "memoryPercentage": 74.95491863731107,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:40:02.664Z",
+    "avgCpu": 58.10738238559442,
+    "memoryPercentage": 75.35684746320318,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:40:06.668Z",
+    "avgCpu": 70.37006460507365,
+    "memoryPercentage": 75.9744717854382,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:40:10.694Z",
+    "avgCpu": 79.94442759471286,
+    "memoryPercentage": 76.33670584401192,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:40:14.690Z",
+    "avgCpu": 80.26765502882982,
+    "memoryPercentage": 77.07924511982182,
+    "diskPercentage": 40,
+    "load1": 0
+  },
+  {
+    "timestamp": "2025-08-04T08:40:18.714Z",
+    "avgCpu": 83.48577925604127,
+    "memoryPercentage": 77.47105718594992,
     "diskPercentage": 40,
     "load1": 0
   }
