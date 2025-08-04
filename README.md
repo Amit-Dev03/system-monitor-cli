@@ -1,6 +1,6 @@
 # System Monitor Pro - CLI Edition
 
-Designed for developers, DevOps engineers, and system administrators, it provides immediate, at-a-glance insights into system vitals directly within the terminal. It is the perfect tool for headless server environments where graphical interfaces are not an option, allowing for quick diagnostics and troubleshooting of performance bottlenecks.
+Designed for developers, DevOps engineers, and system administrators, it provides immediate, at-a-glance insights into system vitals directly within the terminal. It is the perfect tool for headless server environments where graphical interfaces are not an option, allowing for quick diagnostics and troubleshooting of performance bottlenecks.\
 The tool features a color-coded dashboard, per-core CPU tracking, configurable alerts for high usage, and a persistent history system for post-mortem analysis and capacity planning. By offering both live data and historical context, System Monitor Pro empowers users to manage system resources proactively and efficiently.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -48,7 +48,7 @@ The project uses a modular architecture to ensure code is scalable and easy to m
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/https://github.com/Amit-Dev03/system-monitor-cli.git
+    git clone https://github.com/Amit-Dev03/system-monitor-cli.git
     cd system-monitor-cli
     ```
 
