@@ -45,8 +45,8 @@ The project uses a modular architecture to ensure code is scalable and easy to m
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/[YOUR_REPOSITORY].git
-    cd [YOUR_REPOSITORY]
+    git clone https://github.com/https://github.com/Amit-Dev03/system-monitor-cli.git
+    cd system-monitor-cli
     ```
 
 2.  **Install dependencies:**
