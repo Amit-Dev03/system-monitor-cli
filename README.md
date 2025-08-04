@@ -7,7 +7,6 @@
 > A professional, modular command-line tool for real-time system monitoring, built with Node.js.
 
 ![System Monitor Pro Demo](https://github.com/user-attachments/assets/46be0c4d-8c07-4e8a-a884-0b3caff2611b)
-
 ---
 
 ## 🚀 Key Features
