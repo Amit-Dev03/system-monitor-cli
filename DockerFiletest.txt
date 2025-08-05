@@ -1,0 +1,18 @@
+#Use this when you are using this tool directly inside your Pipeline 
+FROM node:18-alpine
+
+WORKDIR /monitoring_app
+#Installing git to clone the repository
+RUN apk add --no-cache git 
+
+RUN git clone https://github.com/Amit-Dev03/system-monitor-cli.git
+
+
+WORKDIR /monitoring_app/system-monitor-cli
+#To set up the Node.js environment
+RUN npm install
+EXPOSE 3000
+
+
+CMD ["npm", "start", "node index.js"]
+
